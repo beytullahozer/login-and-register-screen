@@ -3,7 +3,7 @@
 <br> 
 
 
-<img width="609" alt="Ekran Resmi 2022-03-25 12 03 30" src="">
+<img width="900" alt="Ekran Resmi 2022-03-25 12 03 30" src="">
 
 
 <p align="center">
