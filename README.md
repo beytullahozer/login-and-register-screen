@@ -1,7 +1,11 @@
 # Login Page and Sign Up, Please Check! 👋🏻
 
 
-<br> 
+<br>
+
+Hello, People are often undecided on login pages and can't come to a good conclusion because they are not sure about UI Design. In this project, I performed Login and Sign Up with Firebase.
+
+<br>
 
 I have looked through many applications and noticed that login pages are very complex. It's actually very easy with Firebase Authentication. In the project, views, models and controls are clearly stated in groups. You can take a look 👋🏻
 
